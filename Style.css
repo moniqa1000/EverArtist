@@ -1,8 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
-    text-decoration: none;
-    background-color: var(--white);
+    padding: 0;   
 }
 :root{
     --light-blue: #C9E1E6;
@@ -10,4 +8,40 @@
     --gold:#B59323;
     --white:#FCFCFC;
     --grey:#524B4B;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
+
+.navbar ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    list-style: none;
+}
+
+.navbar li a {
+    display: block;
+    text-decoration: none;
+    padding: 1rem;
+}
+.Feb h2{
+}
+.Feb,.Apr,.Mar{
+    display: flex;
+}
+.Feb div,
+.Apr div{
+   background-color: var(--blue); 
+   margin: 1px;
+}
+
+.Mar div{
+    background-color: var(--light-blue);
+    margin: 1px;
 }
