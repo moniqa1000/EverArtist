@@ -22,3 +22,7 @@
     color: var(--grey);
     text-align: center;
 }
+
+.blog-h2 {
+    font-family: 'El messiri';
+}
