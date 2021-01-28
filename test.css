@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
-    background-color: var(--white);
+    background-color:gray;
 }
 :root{
     --light-blue: #C9E1E6;
@@ -16,8 +16,6 @@
     display: flex;
 }
 
-section{
+.Feb{
     background-color: var(--blue);
 }
-
-
