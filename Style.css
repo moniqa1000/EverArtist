@@ -6,23 +6,42 @@
     --gold:#B59323;
     --white:#FCFCFC;
     --grey:#524B4B;
+    --black:#272526;
 }
 
 /*Sektion 1 - blogintro*/
 
 .blog-intro {
     background-color: var(--blue);
+    margin: 20px;
+    padding:30px;
 }
 
 
 h1 {
     font-family: 'Fredericka the Great';
-    font-size: 50px;
+    font-size: 70px;
     font-weight: 100;
     color: var(--grey);
     text-align: center;
+    color: var(--grey);
 }
 
 h2 {
     font-family: 'El messiri';
+    text-align: center;
+    font-size: 40px;
+    color: var(--black);
+    margin: 0;
 }
+
+p{
+    font-family: 'assistant';
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 1.5em;
+    color: var(--black);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
