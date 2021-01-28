@@ -1,5 +1,6 @@
 
 
+
 :root{
     --light-blue: #C9E1E6;
     --blue:#8BBCBC;
@@ -8,3 +9,32 @@
     --grey:#524B4B;
 }
 
+
+h1{
+color: var(--grey);
+text-align: center;
+}
+
+p{
+color: var(--grey);
+}
+
+
+/* FORSIDE */
+
+.om-os{
+    background-color: var(--blue);
+}
+
+.om-os h2{
+
+}
+
+.ugens-kunstner{
+    
+}
+
+
+.plan{
+   background-color: var(--light-blue); 
+}
