@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
 
 
 :root{
@@ -45,3 +47,33 @@ p{
     padding-right: 30px;
 }
 
+
+h1{
+color: var(--grey);
+text-align: center;
+font-family:'Fredericka the Great', cursive;
+}
+
+p{
+color: var(--grey);
+}
+
+
+/* FORSIDE */
+
+.om-os{
+    background-color: var(--blue);
+}
+
+.om-os h2{
+
+}
+
+.ugens-kunstner{
+    
+}
+
+
+.plan{
+   background-color: var(--light-blue); 
+}
