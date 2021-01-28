@@ -8,3 +8,11 @@
     --grey:#524B4B;
 }
 
+body{
+    background-color: var(--white);
+}
+
+h1{
+    text-align: center;
+    color: var(--grey);
+}
