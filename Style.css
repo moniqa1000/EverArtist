@@ -11,13 +11,3 @@
     --white:#FCFCFC;
     --grey:#524B4B;
 }
-
-.navbar ul li{
-    display: flex;
-}
-
-section{
-    background-color: var(--blue);
-}
-
-
