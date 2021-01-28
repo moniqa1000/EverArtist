@@ -8,3 +8,17 @@
     --grey:#524B4B;
 }
 
+/*Sektion 1 - blogintro*/
+
+.blog-intro {
+    background-color: var(--blue);
+}
+
+
+.blog-h1 {
+    font-family: 'Fredericka the Great';
+    font-size: 50px;
+    font-weight: 100;
+    color: var(--grey);
+    text-align: center;
+}
